@@ -1,0 +1,26 @@
+body{
+    background: darksalmon;
+    color: #221414;
+    font-size: 14pt;
+    font-family: 'Alegreya', serif;
+}
+h1{
+    background: coral;
+}
+
+h2{
+
+}
+
+li{
+    display: inline-block;
+    border: 2px solid black;
+    padding:8px;
+    background: white;
+    margin: 25px;
+   text-decoration: none;
+}
+
+a:hover{
+    background: coral;
+}
